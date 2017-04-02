@@ -1,3 +1,4 @@
 dir
-C:\Anaconda2\Scripts\ipython.exe notebook 
+call "C:\Anaconda2\Scripts\activate" menpodev
+jupyter.exe notebook 
 pause
